@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string-array name="groups">
+        <item>我的好友</item>
+        <item>我的同学</item>
+        <item>我的同事</item>
+    </string-array>
+    
+    <string-array name="tianlongbabu">
+        <item>萧峰</item>
+        <item>段誉</item>
+        <item>虚竹</item>
+    </string-array>
+    
+    <string-array name="tianlongbabu_detail">
+        <item>降龙十八掌,打狗棒法,龙爪手</item>
+        <item>凌波微步,六脉神剑</item>
+        <item>北冥神功,小无相功,天山折梅手,天山六阳掌</item>
+    </string-array>
+    
+    <string-array name="shediaoyingxiongzhuan">
+        <item>郭靖</item>
+        <item>黄蓉</item>
+        <item>王重阳</item>
+        <item>黄药师</item>
+        <item>欧阳锋</item>
+        <item>一灯</item>
+        <item>洪七公</item>
+    </string-array>
+    
+    <string-array name="shediaoyingxiongzhuan_detail">
+        <item>降龙十八掌,九阴真经,天罡北斗阵,双手互搏,空明拳</item>
+        <item>碧波掌法,落英神剑掌,玉箫剑法,兰花拂穴手</item>
+        <item>先天功,金雁功,全真剑法,一剑化三清</item>
+        <item>桃花影落飞神剑，碧海潮生按玉箫</item>
+        <item>蛤蟆功,瞬息千里,神驼雪山掌,透骨打穴法</item>
+        <item>一阳指,先天功</item>
+        <item>降龙十八掌,打狗棒法,伏虎拳</item>
+    </string-array>
+    
+    <string-array name="shendiaoxialv">
+        <item>杨过</item>
+        <item>小龙女</item>
+    </string-array>
+    
+    <string-array name="shendiaoxialv_detail">
+        <item>姓杨名过字改之,黯然销魂掌,玉女素心剑法,全真剑法,蛤蟆功</item>
+        <item>玉女素心剑法,古墓派轻功,金铃锁、淑女剑、玉蜂针、白金丝掌套</item>
+    </string-array>
+    
+    <string-array name="group_names">
+        <item>中兴</item>
+        <item>华为</item>
+        <item>大唐</item>
+        <item>波导</item>
+        <item>魅族</item>
+        <item>联想</item>
+        <item>小米</item>
+        <item>oppo</item>
+        <item>金立</item>
+    </string-array>
+    
+    <string-array name="group_details">
+        <item>中兴通讯股份有限公司-广东省深圳市南山区科技南路55号</item>
+        <item>华为技术有限公司-深圳市龙岗区坂田华为基地 </item>
+        <item>大唐电信科技产业集团-北京市海淀区永嘉北路6号</item>
+        <item>宁波波导股份有限公司-宁波市奉化大成东路999号</item>
+        <item>珠海市魅族科技有限公司-珠海市唐家湾高新区科技创新海岸魅族科技楼</item>
+        <item>联想乐phone-中国北京海淀区上地创业路6号</item>
+        <item>北京小米科技有限责任公司-北京市朝阳区望京西路甲50号-1卷石天地大厦A座12楼</item>
+        <item>广东欧珀电子工业有限公司-广东东莞长安镇乌沙海滨路18号</item>
+        <item>金立通信设备有限公司-深圳市深南大道时代科技大厦21楼</item>
+    </string-array>
+    
+</resources>

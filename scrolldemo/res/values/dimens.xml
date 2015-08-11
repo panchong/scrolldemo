@@ -1,0 +1,15 @@
+<resources>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="margin_lr">30dip</dimen>
+    <dimen name="margin_tb">90dip</dimen>
+    <dimen name="margin_btn">3dip</dimen>
+    <dimen name="list_MinHeight">64dip</dimen>
+    <dimen name="indicator_width">15dip</dimen>
+    <dimen name="indicator_height">20dip</dimen>
+    <dimen name="panel_height">46dip</dimen>
+    <dimen name="icon_width">40dip</dimen>
+    <dimen name="min_Height">64dip</dimen>
+    <dimen name="image_width">60dip</dimen>
+
+</resources>
